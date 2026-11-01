@@ -16,7 +16,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task6.V30
             Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Среди целых чисел отрезка [11; 17] найти количество всех делителей.     *");

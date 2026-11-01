@@ -17,7 +17,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task3.V3
             Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #3                                                              *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
+            Console.WriteLine("* Выполнил: Юшков Антон Ильич | ПКТб-26-1                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Используя foreach, подсчитать минимальное количество букв f,            *");
