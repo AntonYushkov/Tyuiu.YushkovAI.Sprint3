@@ -13,14 +13,14 @@ namespace Tyuiu.YushkovAI.Sprint3.Task5.V22
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Вложенные циклы                                                    *");
+            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #22                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                                *");
+            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Вычислить двойную сумму при x = 2:                                       *");
-            Console.WriteLine("* y = Sum(i=1..3) Sum(k=1..12) (x^3 * sin(k) + 2).                          *");
+            Console.WriteLine("* Вычислить двойную сумму при x = 2:                                      *");
+            Console.WriteLine("* y = Sum(i=1..3) Sum(k=1..12) (x^3 * sin(k) + 2).                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");

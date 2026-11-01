@@ -21,7 +21,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task2.V22
             Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл do...while, вычислить произведение ряда*");
+            Console.WriteLine("* Используя цикл do...while, вычислить произведение ряда:                 *");
             Console.WriteLine("* по формуле P = Product(i=1..7) (3 / (i + x^(-i)))^2.                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");

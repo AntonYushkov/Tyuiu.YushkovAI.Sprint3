@@ -13,14 +13,14 @@ namespace Tyuiu.YushkovAI.Sprint3.Task4.V28
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Использование continue и break в циклах                            *");
+            Console.WriteLine("* Тема: Использование continue и break в циклах                           *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #28                                                             *");
-            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                                *");
+            Console.WriteLine("* Выполнил: Юшков Антон Игоревич | ПКТб-26-1                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* На отрезке [-5; 5] вычислить y = (cos(x) + sin(x)) / x.                   *");
-            Console.WriteLine("* При x = 0 пропустить значение. Полученные значения суммировать.          *");
+            Console.WriteLine("* На отрезке [-5; 5] вычислить y = (cos(x) + sin(x)) / x.                 *");
+            Console.WriteLine("* При x = 0 пропустить значение. Полученные значения суммировать.         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
