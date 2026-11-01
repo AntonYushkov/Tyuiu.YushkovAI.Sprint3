@@ -39,7 +39,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task3.V3
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine($"Минимальное количество букв f подряд = {res}");
+            Console.WriteLine($"Минимальное количество соседних букв f = {res}");
         }
     }
 }

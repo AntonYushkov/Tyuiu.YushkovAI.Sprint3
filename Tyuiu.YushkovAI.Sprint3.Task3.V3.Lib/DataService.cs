@@ -17,7 +17,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task3.V3.Lib
                 }
                 else
                 {
-                    if (count > 0 && (minCount == 0 || count < minCount))
+                    if (count > 1 && (minCount == 0 || count < minCount))
                     {
                         minCount = count;
                     }
@@ -25,7 +25,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task3.V3.Lib
                 }
             }
 
-            if (count > 0 && (minCount == 0 || count < minCount))
+            if (count > 1 && (minCount == 0 || count < minCount))
             {
                 minCount = count;
             }

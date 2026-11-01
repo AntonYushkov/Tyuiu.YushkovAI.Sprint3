@@ -14,7 +14,7 @@ namespace Tyuiu.YushkovAI.Sprint3.Task3.V3.Test
             string value = "cvbmzff orffgtrr dkfvfffdr";
             int res = ds.GetMinCharCount(value, 'f');
 
-            Assert.AreEqual(1, res);
+            Assert.AreEqual(2, res);
         }
 
         [TestMethod]
